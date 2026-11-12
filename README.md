@@ -233,8 +233,6 @@ CAMGOZ aktif olarak geliştirilmektedir. Yeni özellikler ve mimari iyileştirme
 
 ## Lisans
 
-Bu proje için henüz açık kaynak lisansı belirlenmemiştir.
-
 Depoya bir lisans eklenene kadar tüm haklar proje sahibine aittir. Kaynak kodun yeniden dağıtımı veya ticari kullanımı için izin verildiği varsayılmamalıdır.
 
 ---
